@@ -1,0 +1,3 @@
+[submodule "hugo-coder-portfolio"]
+	path = hugo-coder-portfolio
+	url = https://github.com/naro143/hugo-coder-portfolio.git
