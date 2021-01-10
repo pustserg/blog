@@ -2,6 +2,6 @@
 	path = hugo-coder-portfolio
 	url = https://github.com/naro143/hugo-coder-portfolio.git
 [submodule "pustserg.github.io"]
-	path = pustserg.github.io
+	path = public
 	url = git@github.com:pustserg/pustserg.github.io.git
-	branch = main
+	branch = master
