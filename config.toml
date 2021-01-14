@@ -17,4 +17,9 @@ theme = 'hugo-goa'
   telegram="pustserg"
   email="pustserg@yandex.ru"
 
+[params.extra]
+  poweredby=true
+  rss=false
+  copyright="© 2021. Pustovalov Sergey. [Some Rights Reserved](https://creativecommons.org/licenses/by/3.0/)."
+
 [[menu.main]]
