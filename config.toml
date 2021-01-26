@@ -2,6 +2,8 @@ baseURL = "http://pustserg.github.io/"
 languageCode = "en-us"
 title = "Sergey Pustovalov"
 theme = 'hugo-goa'
+googleAnalytics = "G-9TSW9K8XTJ"
+
 
 [params]
   author="Pustovalov Sergey"
