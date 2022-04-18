@@ -8,6 +8,14 @@ ruby, ruby on rails, hanami, sinatra, sidekiq, postgresql, mongo, kafka, rabbitm
 
 # Опыт работы
 ---
+## [Talenttech](https://talenttech.ru/)
+
+2021-2022
+
+---
+
+Тимлид команды "Опросы". Разрабатывал конструктор опросов, проводил собеседования. Участвовал в планировании задач, руководил командой из 2 программистов бекенда.
+
 
 ## [Рокетбанк](https://rocketbank.ru)
 
