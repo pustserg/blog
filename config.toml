@@ -22,6 +22,6 @@ googleAnalytics = "G-9TSW9K8XTJ"
 [params.extra]
   poweredby=true
   rss=false
-  copyright="© 2021. Pustovalov Sergey. [Some Rights Reserved](https://creativecommons.org/licenses/by/3.0/)."
+  copyright="© 2021-2022. Pustovalov Sergey. [Some Rights Reserved](https://creativecommons.org/licenses/by/3.0/)."
 
 [[menu.main]]

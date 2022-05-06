@@ -1,6 +1,6 @@
 # Ключевые навыки
 
-ruby, ruby on rails, hanami, sinatra, sidekiq, postgresql, mongo, kafka, rabbitmq, protobuf
+*ruby, ruby on rails, sinatra, sidekiq, postgresql, mongo, kafka, rabbitmq, protobuf, grpc*
 
 # О себе
 Люблю и умею делать удобные для пользователей вещи. Писать тестируемый и легко изменяемый код. Делать сложные вещи проще, а мир лучше.
@@ -9,19 +9,15 @@ ruby, ruby on rails, hanami, sinatra, sidekiq, postgresql, mongo, kafka, rabbitm
 # Опыт работы
 ---
 ## [Talenttech](https://talenttech.ru/)
-
-2021-2022
-
----
+*2021-2022*
 
 Тимлид команды "Опросы". Разрабатывал конструктор опросов, проводил собеседования. Участвовал в планировании задач, руководил командой из 2 программистов бекенда.
 
+---
+
 
 ## [Рокетбанк](https://rocketbank.ru)
-
 *2017-2021*
-
----
 
 Принимал участие в разработке API мобильной версии, ядра банковской системы. Закрывал важные части работы банка, такие как закрытия счетов, жизненный цикл депозитов, начисление процентов на остаток и прочее. Принимал участие в проектировании архитектуры.
 
@@ -30,8 +26,6 @@ ruby, ruby on rails, hanami, sinatra, sidekiq, postgresql, mongo, kafka, rabbitm
 ## [Киндерли](https://kinderly.ru)
 *2015-2017*
 
----
-
 Интернет магазин для детей. Разрабатывал функционал админки для SEO специалистов и сделал удобную админку для курьеров и прочее.
 
 ---
@@ -39,7 +33,6 @@ ruby, ruby on rails, hanami, sinatra, sidekiq, postgresql, mongo, kafka, rabbitm
 ## [Planado](https://planadoapp.com)
 *2015-2015*
 
----
 Система управления разьездными работниками, Сделал систему вебхуков для пользователей API
 
 ---
