@@ -1,4 +1,4 @@
-# Ключевые навыки
+# Key skills
 
 *ruby, ruby on rails, sinatra, sidekiq, postgresql, mongo, kafka, rabbitmq, protobuf, grpc*
 
