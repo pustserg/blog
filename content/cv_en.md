@@ -7,6 +7,21 @@ I love and know how to make things convenient for users. Write testable and easi
 
 # Experience
 ---
+## [Studytube](https://studytube.nl)
+*July 2022 - current time*
+
+B2B learining platform with LMS and LXP parts.
+Developer in the integration team. Support integration with clients HR system. Automatization of migrating processs.
+
+---
+
+## [3commas](https://3commas.io)
+*March-June 2022*
+
+Automated crypto trading bots. I took part in the supporting public API for apps marketplace
+
+---
+
 ## [Talenttech](https://talenttech.ru/)
 *2021-2022*
 
